@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022359623474",
+    "project_id": "coinci-b5ac8",
+    "storage_bucket": "coinci-b5ac8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022359623474:android:76b9b5e055cd6e774ea92b",
+        "android_client_info": {
+          "package_name": "com.coinci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2wD6VkxR-v-WrBiPSkoho3bzc81QaLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
